@@ -4,31 +4,31 @@ const lists = {
     "galery": [
         {
             "id": 1,
-            "title": "STARLINK MISSION",
-            "description": `<p class="text-sm leading-6 mb-2 text-slate-700">On Friday, April 5 at 5:12 a.m. ET, Falcon 9 launched 23 Starlink satellites to low-Earth orbit from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station in Florida.</p>`,
+            "title": "BELAJAR BERKENDARA",
+            "description": `<p class="text-sm leading-6 mb-2 text-slate-700">Baik Anda seorang pengendara kawakan maupun baru akan melangkah sebagai pemula, hubungi dealer Anda untuk mengetahui berbagai peluang yang disesuaikan bagi para penggemar dari setiap tingkat keahlian.</p>`,
             "date": "APRIL 5, 2024",
-            "image_url": "/images/artikel/Star6_47_040524_sterak2_desktop_22aa01b011.jpg"
+            "image_url": "/images/artikel/touring-ltr-cccar.jpg"
         },
         {
             "id": 3,
-            "title": "EUTELSAT 36D MISSION",
-            "description": `<p class="text-sm leading-6 mb-2 text-slate-700">On Saturday, March 30 at 5:52 p.m. ET, Falcon 9 launched the EUTELSAT 36D mission to a geosynchronous transfer orbit from Launch Complex 39A (LC-39A) at the Kennedy Space Center in Florida.</p>`,
+            "title": "ACARA",
+            "description": `<p class="text-sm leading-6 mb-2 text-slate-700">Dari acara berkendara lokal ke acara dealer hingga reli beberapa hari, temukan pengalaman motor kelas dunia untuk setiap jenis pengendara.</p>`,
             "date": "MARCH 30, 2024",
-            "image_url": "/images/artikel/Eutelsat_36_D_ramph_IMG_9866_desktop_bbf70d45e4.jpg"
+            "image_url": "/images/artikel/touring-event-cccar.jpg"
         },
         {
             "id": 2,
-            "title": "STARLINK MISSION",
-            "description": `<p class="text-sm leading-6 mb-2 text-slate-700">On Monday, March 18 at 7:28 p.m. PT, Falcon 9 launched Starlink satellites to low-Earth orbit from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California.</p>`,
+            "title": "PENYEWAAN",
+            "description": `<p class="text-sm leading-6 mb-2 text-slate-700">Rasakan petualangan berkendara terbaik dengan menyewa motor dari penyewaan resmi Harley-Davidson Authorized Rentals serta EagleRider Rentals and Tours. </p>`,
             "date": "MARCH 18, 2024",
-            "image_url": "/images/artikel/2_Desktop_182ba4f49c.jpg"
+            "image_url": "/images/artikel/sport-rent-cccar.jpg"
         },
         {
             "id": 4,
-            "title": "STARSHIP'S THIRD FLIGHT TEST",
-            "description": `<p class="text-sm leading-6 mb-2 text-slate-700">Starship returned to integrated flight testing with its third launch from Starbase in Texas. While it didn’t happen in a lab or on a test stand, it was absolutely a test. What we achieved on this flight will provide invaluable data to continue rapidly developing Starship.</p>`,
+            "title": "HARLEY OWNERS GROUP (HOG)",
+            "description": `<p class="text-sm leading-6 mb-2 text-slate-700">Sejak menjadi klub berkendara resmi H-D pada tahun 1983, Harley Owners Group menyediakan akses ke berbagai manfaat eksklusif untuk membantu Anda mendapatkan pengalaman optimal sebagai pemilik motor.</p>`,
             "date": "MARCH 14, 2024",
-            "image_url": "/images/artikel/Flight_3_Website_Desktop_2_8cd1983689.jpg"
+            "image_url": "/images/artikel/touring-hog-cccar.jpg"
         },
     ]
 

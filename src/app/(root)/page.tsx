@@ -6,8 +6,8 @@ export default function Home() {
             <div className="text-xl text-black leading-6 font-semibold px-5 py-4">Welcome</div>
             <div className="flex">
                 <Image
-                    src="/images/Flight_3_Website_Desktop_2_8cd1983689.jpg"
-                    alt="Image from Starship&apos;s Third Flight Test"
+                    src="/images/mens-womens-zolora-media-card.jpg"
+                    alt="BARU! BELI PAKAIAN H-D ONLINE DI ZALORA"
                     width={500}
                     height={500}
                     className="w-full bg-center rounded-xl"
@@ -15,7 +15,7 @@ export default function Home() {
             </div>
             <div className="py-8 flex flex-col gap-4">
                 <div className="text-xl text-slate-700 font-normal leading-6">MARCH 14, 2024</div>
-                <div className="text-3xl text-black font-semibold leading-5">STARSHIP&apos;S THIRD FLIGHT TEST</div>
+                <div className="text-3xl text-black font-semibold leading-5">BARU! BELI PAKAIAN H-D ONLINE DI ZALORA</div>
             </div>
             <div className="grid grid-cols-2 gap-6">
                 <div>

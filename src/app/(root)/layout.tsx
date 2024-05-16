@@ -18,14 +18,14 @@ export default function RootLayout({
                                     alt="Baroen Space"
                                     width={500}
                                     height={500}
-                                    className="w-32"
+                                    className="w-60"
                                 />
                             </Link>
                         </div>
                         <div>
-                            <div className="text-4xl text-white leading-5 font-normal mb-2">Baroen Space🚀🚀</div>
+                            <div className="text-4xl text-white leading-5 font-normal mb-2">Club Motor Baroen Dapitson🏍️🏍️</div>
                             <div className="w-full max-w-xl py-1">
-                                <p className="text-sm text-white leading-4 font-normal tracking-wide">Baroen Space designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, with the ultimate goal of enabling people to live on other planets.</p>
+                                <p className="text-sm text-white leading-4 font-normal tracking-wide">Sebuah kategori yang diciptakan oleh Sportster yang dikagumi. Desain ikonis, suara autentik. Ini adalah motor yang dibangun untuk menggilas jalanan gunung dan melesat di atas jalanan kota.</p>
                             </div>
                         </div>
                     </div>

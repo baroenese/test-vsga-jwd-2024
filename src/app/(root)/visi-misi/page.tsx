@@ -6,9 +6,19 @@ export default function Page() {
                     <div className="text-2xl text-white leading-6 font-semibold">Visi dan Misi</div>
                 </div>
                 <div className="p-12">
-                    <p className="text-2xl text-black leading-8 font-normal mb-2 text-center">
-                        {`“You want to wake up in the morning and think the future is going to be great - and that's what being a spacefaring civilization is all about. It's about believing in the future and thinking that the future will be better than the past. And I can't think of anything more exciting than going out there and being among the stars.” -Baroen Sudarman`}
-                    </p>
+                    <div className="w-full max-w-2xl mx-auto">
+                        <div className="text-3xl text-black leading-6 font-semibold text-center mb-4">Visi</div>
+                        <p className="text-2xl text-black leading-8 font-normal mb-2 text-center">
+                            {`Building our legend and leading through innovation, evolution and emotion.`}
+                        </p>
+
+                        <div className="mb-12"></div>
+
+                        <div className="text-3xl text-black leading-6 font-semibold text-center mb-4">Misi</div>
+                        <p className="text-2xl text-black leading-8 font-normal mb-2 text-center">
+                            {`More than building machines, we stand for the timeless pursuit of adventure. Freedom for the soul.`}
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
